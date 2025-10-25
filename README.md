@@ -34,4 +34,4 @@ Most of the below instructions are from the [JSON.md](https://github.com/ThinkOp
       ```
       make json
       ```
-    - An example of created json is the included file [sail-riscv-out.json](./sail-riscv-out.json)
+    - An example of the json output is in the included file [sail-riscv-out.json](./sail-riscv-out.json)
